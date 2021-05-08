@@ -7,8 +7,7 @@ The app transform only latin letters, other characters remain unchanged.
 ## How to install
 
 1. Download or clone this repository
-2. Go to the app folder (`CIPHR`)
-3. Use the command `npm i` or `npm install` to install the dependencies
+2. Use the command `npm i` or `npm install` to install the dependencies
 
 ## How to use
 
