@@ -8,6 +8,8 @@ The app transform only latin letters, other characters remain unchanged.
 
 1. Download or clone this repository
 2. Use the command `npm i` or `npm install` to install the dependencies
+3. `npm link` or `sudo npm link` if you are using linux or mac os
+
 
 ## How to use
 

@@ -41,8 +41,8 @@ const transform = new transformStream(caesarCipher, action, shift);
 
 pipeline(readStream, transform, writeStream, (err) => {
   if (err) {
-    console.error("Failed.", err);
+    console.error("Fail!", err);
   } else {
-    console.log("Succeeded.");
+    console.log("Success!");
   }
 });
